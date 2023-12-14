@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #d44c4c;
+  background-color: #2e0f75;
   height: 100%;
 }
 
@@ -27,7 +27,7 @@ div {
   text-align: center;
   margin: 3rem auto;
   border-radius: 8px;
-  background-color: rgb(124, 102, 102);
+  background-color: rgb(190, 185, 185);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 

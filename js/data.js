@@ -1,7 +1,7 @@
 const questions = [
   {
     question: "Which company became the first to reach a $2 trillion market cap in 2020?",
-    options: ["Google", "Apple", "Microsoft", "Amazon"],
+   options: ["Google", "Apple", "Microsoft", "Amazon"],
     answer: "Apple",
   },
   {

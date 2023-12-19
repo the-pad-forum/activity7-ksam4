@@ -60,12 +60,13 @@ div {
 #progress { 
   height: 48px; 
   padding: 8px; 
+  margin: 20px;
 }
 
 #next-question { 
   border-radius: 1.8rem;
   padding: .8rem 2rem;
-  margin-top: 3rem; 
+   margin: 100px;
 }
 
 #question { 
@@ -79,6 +80,17 @@ div {
 
 #options button {
   position: relative;
+  display: block;
+  width: 100%;
+  padding: 10px; 
+  text-align: center; 
+  background-color: #4CAF50; 
+  color: white; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer;
+
+  
 }
 
 .selected-answer, .selected-answer:active, .selected-answer:hover {
